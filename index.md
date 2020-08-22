@@ -1,16 +1,26 @@
-## Welcome to GitHub Pages
+# Geetu Chopra
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Data Analyst
+Dynamic, team work oriented and proactive Data analyst with over 5 years experience in Data Analysis, Business Reporting, Data cleaning and validation.  Ability to program and process complex data in different databases.  Knack to understand and analyze complex data sets and translating numbers into meaningful facts for clients to help them make better business decisions. 
 
-You can use the [editor on GitHub](https://github.com/Geetuchopra/GeetuChopra/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Key Skills**|:
+-----------------|--------------------------
+Data Analysis and Cleaning | Advanced MS office skills
+Programming languages: **R, Python, SAS, SQL** | Passion for solving problems
+**Data Science research methods** | Quick learner and creative thinker
+**Statistical methods and packages: SPSS, R** | Ability to handle big datasets
+**Operational Knowledge	of AWS: EC2, S3, RDS, VPC** | **Git, Tableau**
+Multi doman experience: Pharma, Banking | Efficient resource
 
-### Markdown
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
-
+ 
 # Header 1
 ## Header 2
 ### Header 3
