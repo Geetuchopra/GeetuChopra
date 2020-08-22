@@ -1,4 +1,5 @@
-### Hi there! I am Geetu Chopra, Electronics and Communication Engineer from India, with 5 years experience in Data Analysis and Market Research. 
+### Hi there! I am Geetu Chopra, Electronics and Communication Engineer, with 5 years experience in Data Analysis and Market Research. 
+I'm currently working on Data Scientist Toolbox course in Data Science specialization on Coursera.
 <!--
 **Geetuchopra/GeetuChopra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
